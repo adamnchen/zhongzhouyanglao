@@ -53,6 +53,10 @@
             <groupId>com.zzyl</groupId>
             <artifactId>zzyl-generator</artifactId>
         </dependency>
+        <dependency>
+            <groupId>com.zzyl</groupId>
+            <artifactId>zzyl-nursing-platform</artifactId>
+        </dependency>
 
     </dependencies>
 
